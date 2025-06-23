@@ -1,4 +1,5 @@
 # EventGo-University-Activities-Registration-Management-System
+CLICK INTO THE THIS FILE TO SEE THE STRUCTURE CLEARY LOL!!
 ADD ANYTHING IF YOU CAN!!!
 
 EventGo/
