@@ -1,5 +1,5 @@
-//You’ll need JFreeChart (download JAR: https://sourceforge.net/projects/jfreechart/)
-//Include in Eclipse: Project > Properties > Java Build Path > Add External JARs
+//You’ll need JFreeChart (download JAR: https://sourceforge.net/projects/jfreechart/) (NEED TO FIND A NEW JFREECHART)
+//Include in Eclipse: Project > Properties > Java Build Path > Add External JARs (THIS IS JUST DEMO VERSION .JAR)
 import java.awt.EventQueue;
 import javax.swing.*;
 import java.awt.*;
